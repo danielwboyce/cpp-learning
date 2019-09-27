@@ -1,0 +1,1 @@
+This program uses some user prompts to do some math and calculate how many pizzas of which sizes you should purchase to adequately feed a group of people at an event.
