@@ -1,0 +1,1 @@
+This console program is a glorified version of a "Hello, World!" that prints some trivia about my alma mater to the console.
