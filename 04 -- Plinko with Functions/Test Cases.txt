@@ -1,0 +1,277 @@
+-------------------------------------TEST CASE 1-------------------------------------
+Welcome to Plinko!
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: ahoy
+INVALID SELECTION. Please enter 1, 2, 3, or 4
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 0
+INVALID SELECTION. Please enter 1, 2, 3, or 4
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: -1
+INVALID SELECTION. Please enter 1, 2, 3, or 4
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 5
+INVALID SELECTION. Please enter 1, 2, 3, or 4
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 1
+
+*** DROP SINGLE CHIP ***
+Which slot do you want to drop the chip in (0-8)? hey
+INVALID SLOT.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 1
+
+*** DROP SINGLE CHIP ***
+Which slot do you want to drop the chip in (0-8)? -1
+INVALID SLOT.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 1
+
+*** DROP SINGLE CHIP ***
+Which slot do you want to drop the chip in (0-8)? 9
+INVALID SLOT.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 1
+
+*** DROP SINGLE CHIP ***
+Which slot do you want to drop the chip in (0-8)? 5
+
+*** DROPPING CHIP INTO SLOT 5 ***
+PATH: [5.0 4.5 5.0 5.5 6.0 5.5 6.0 5.5 6.0 6.5 7.0 7.5 7.0]
+WINNINGS: $500.00
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 4
+GOODBYE!
+
+-------------------------------------TEST CASE 2-------------------------------------
+Welcome to Plinko!
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 2
+
+*** DROP MULTIPLE CHIPS ***
+How many chips do you want to drop (>0)? potato
+INVALID NUMBER OF CHIPS.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 2
+
+*** DROP MULTIPLE CHIPS ***
+How many chips do you want to drop (>0)? -1
+INVALID NUMBER OF CHIPS.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 2
+
+*** DROP MULTIPLE CHIPS ***
+How many chips do you want to drop (>0)? 0
+INVALID NUMBER OF CHIPS.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 2
+
+*** DROP MULTIPLE CHIPS ***
+How many chips do you want to drop (>0)? 10
+Which slot do you want to drop the chips in (0-8)? test
+INVALID SLOT.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 2
+
+*** DROP MULTIPLE CHIPS ***
+How many chips do you want to drop (>0)? 10
+Which slot do you want to drop the chips in (0-8)? -1
+INVALID SLOT.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 2
+
+*** DROP MULTIPLE CHIPS ***
+How many chips do you want to drop (>0)? 10
+Which slot do you want to drop the chips in (0-8)? 9
+INVALID SLOT.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 2
+
+*** DROP MULTIPLE CHIPS ***
+How many chips do you want to drop (>0)? 10
+Which slot do you want to drop the chips in (0-8)? 5
+
+*** DROPPING CHIP INTO SLOT 5 ***
+Total Winnings on 10 chips: $14100
+Average winnings per chip: $1410
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 4
+GOODBYE!
+
+-------------------------------------TEST CASE 3-------------------------------------
+Welcome to Plinko!
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 3
+
+*** DROP MULTIPLE CHIPS INTO EVERY SLOT ***
+How many chips do you want to drop into every slot (>0)? no
+INVALID NUMBER OF CHIPS.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 3
+
+*** DROP MULTIPLE CHIPS INTO EVERY SLOT ***
+How many chips do you want to drop into every slot (>0)? -10000
+INVALID NUMBER OF CHIPS.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 3
+
+*** DROP MULTIPLE CHIPS INTO EVERY SLOT ***
+How many chips do you want to drop into every slot (>0)? 0
+INVALID NUMBER OF CHIPS.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 3
+
+*** DROP MULTIPLE CHIPS INTO EVERY SLOT ***
+How many chips do you want to drop into every slot (>0)? 100000
+
+*** DROPPING 100000 CHIPS INTO EVERY SLOT ***
+
+*** WINNINGS FROM SLOT 0 DROP ***
+Total Winnings on 100000 chips: $7.75745e+007
+Average winnings per chip: $775.745
+
+*** WINNINGS FROM SLOT 1 DROP ***
+Total Winnings on 100000 chips: $1.02933e+008
+Average winnings per chip: $1029.33
+
+*** WINNINGS FROM SLOT 2 DROP ***
+Total Winnings on 100000 chips: $1.5885e+008
+Average winnings per chip: $1588.5
+
+*** WINNINGS FROM SLOT 3 DROP ***
+Total Winnings on 100000 chips: $2.26418e+008
+Average winnings per chip: $2264.18
+
+*** WINNINGS FROM SLOT 4 DROP ***
+Total Winnings on 100000 chips: $2.56328e+008
+Average winnings per chip: $2563.28
+
+*** WINNINGS FROM SLOT 5 DROP ***
+Total Winnings on 100000 chips: $2.26655e+008
+Average winnings per chip: $2266.55
+
+*** WINNINGS FROM SLOT 6 DROP ***
+Total Winnings on 100000 chips: $1.59301e+008
+Average winnings per chip: $1593.01
+
+*** WINNINGS FROM SLOT 7 DROP ***
+Total Winnings on 100000 chips: $1.03028e+008
+Average winnings per chip: $1030.28
+
+*** WINNINGS FROM SLOT 8 DROP ***
+Total Winnings on 100000 chips: $7.74378e+007
+Average winnings per chip: $774.378
+
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Drop multiple chips into each slot
+4 - Quit the program
+Enter your selection now: 4
+GOODBYE!
