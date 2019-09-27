@@ -1,0 +1,139 @@
+-------------------------------------TEST CASE 1-------------------------------------
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 0
+INVALID SELECTION.  Please enter 1, 2 or 3
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 1
+
+*** DROP SINGLE CHIP ***
+Which slot do you want to drop the chip in (0-8)? 1000
+INVALID SLOT.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 1
+
+Which slot do you want to drop the chip in (0-8)? 4
+
+*** DROPPING CHIP INTO SLOT 4 ***
+PATH: [4.0 4.5 5.0 6.5 7.0 6.5 6.0 6.5 6.0 5.5 5.0 5.5 6.0]
+WINNINGS: $1000.00
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 3
+GOODBYE!
+
+-------------------------------------TEST CASE 2-------------------------------------
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: -1
+INVALID SELECTION.  Please enter 1, 2 or 3
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 2
+
+*** DROP MULTIPLE CHIPS ***
+How many chips do you want to drop (>0)? 0
+INVALID NUMBER OF CHIPS.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 2
+
+*** DROP MULTIPLE CHIPS ***
+How many chips do you want to drop (>0)? -5
+INVALID NUMBER OF CHIPS.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 2
+
+How many chips do you want to drop (>0)? 142
+Which slot do you want to drop the chip in (0-8)? -1
+INVALID SLOT.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 2
+
+How many chips do you want to drop (>0)? 142
+Which slot do you want to drop the chip in (0-8)? 10
+INVALID SLOT.
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 2
+
+How many chips do you want to drop (>0)? 3
+Which slot do you want to drop the chip in (0-8)? 2
+Total Winnings on 142 chips: $10500.00
+Average winnings per chip:  $3500.00
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 3
+GOODBYE!
+
+-------------------------------------TEST CASE 3-------------------------------------
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 5
+INVALID SELECTION.  Please enter 1, 2 or 3
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 2
+
+How many chips do you want to drop (>0)? 10
+Which slot do you want to drop the chip in (0-8)? 5
+Total Winnings on 142 chips: $14100.00
+Average winnings per chip:  $1410.00
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 2
+
+How many chips do you want to drop (>0)? 3
+Which slot do you want to drop the chip in (0-8)? 1
+Total Winnings on 142 chips: $1000.00
+Average winnings per chip:  $333.33
+
+MENU: Please select one of the following options:
+1 - Drop a single chip into one slot
+2 - Drop multiple chips into one slot
+3 - Quit the program
+Enter your selection now: 3
+GOODBYE!
