@@ -1,0 +1,1 @@
+This program takes some user-inputted parameters to compare the gas and economic efficiency of a hybrid car and a non-hybrid car.
