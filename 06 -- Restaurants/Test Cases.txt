@@ -1,0 +1,657 @@
+-------------------------------------TEST CASE 1-------------------------------------
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: Quit
+Invalid selection. Please enter 1, 2, 3, 4, 5, or 6 to signify your choice.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: Quit everything
+Invalid selection. Please enter 1, 2, 3, 4, 5, or 6 to signify your choice.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 1
+
+Wendy's, Subway, Taco Bell, Baja Fresh, Tito's Tacos, Establo's Meat Market, McDonald's, Sizzler
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: 123 ABC Road Cafe
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 1
+
+Wendy's, Subway, Taco Bell, Baja Fresh, Tito's Tacos, Establo's Meat Market, McDonald's, Sizzler, 123 ABC Road Cafe
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: Baja Fresh
+The restaurant was already in the list. It was not added again.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 1
+
+Wendy's, Subway, Taco Bell, Baja Fresh, Tito's Tacos, Establo's Meat Market, McDonald's, Sizzler, 123 ABC Road Cafe
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 5
+The number of restaurants must be equal a power of two. Please add or remove restaurants to comply.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 6
+
+GOODBYE!
+
+Press any key to continue . . .
+
+-------------------------------------TEST CASE 2-------------------------------------
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: -1
+Invalid selection. Please enter 1, 2, 3, 4, 5, or 6 to signify your choice.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 0
+Invalid selection. Please enter 1, 2, 3, 4, 5, or 6 to signify your choice.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: -222
+Invalid selection. Please enter 1, 2, 3, 4, 5, or 6 to signify your choice.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 7
+Invalid selection. Please enter 1, 2, 3, 4, 5, or 6 to signify your choice.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 1
+
+Wendy's, Subway, Taco Bell, Baja Fresh, Tito's Tacos, Establo's Meat Market, McDonald's, Sizzler
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 3
+
+Please enter the name of the restaurant that you wish to delete: Smokey's
+The restaurant was not found in the list. It was therefore not deleted.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 3
+
+Please enter the name of the restaurant that you wish to delete: Subway
+The restaurant was removed from the list.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 3
+
+Please enter the name of the restaurant that you wish to delete: Wendy's
+The restaurant was removed from the list.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 1
+
+Taco Bell, Baja Fresh, Tito's Tacos, Establo's Meat Market, McDonald's, Sizzler
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 5
+The number of restaurants must be equal a power of two. Please add or remove restaurants to comply.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: 123 ABC Road Cafe
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: Help! Beatles' Diner
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 1
+
+Taco Bell, Baja Fresh, Tito's Tacos, Establo's Meat Market, McDonald's, Sizzler, 123 ABC Road Cafe, Help! Beatles' Diner
+
+MENU: Please select one of the following options:
+
+ 1 - Display all restaurants
+ 2 - Add a restaurant
+ 3 - Remove a restaurant
+ 4 - Shuffle the vector
+ 5 - Begin the tournament
+ 6 - Quit the program
+
+Enter your selection now: 5
+Match 1/4, Round 1/3 --- Enter 1 for Taco Bell or 2 for Baja Fresh: 2
+Match 2/4, Round 1/3 --- Enter 1 for Tito's Tacos or 2 for Establo's Meat Market: 1
+Match 3/4, Round 1/3 --- Enter 1 for McDonald's or 2 for Sizzler: 2
+Match 4/4, Round 1/3 --- Enter 1 for 123 ABC Road Cafe or 2 for Help! Beatles' Diner: 1
+Match 1/2, Round 2/3 --- Enter 1 for Baja Fresh or 2 for Tito's Tacos: 2
+Match 2/2, Round 2/3 --- Enter 1 for Sizzler or 2 for 123 ABC Road Cafe: 123 ABC Road Cafe
+Invalid response (123 ABC Road Cafe)
+Match 2/2, Round 2/3 --- Enter 1 for Sizzler or 2 for 123 ABC Road Cafe: 2
+Match 1/1, Round 3/3 --- Enter 1 for Tito's Tacos or 2 for 123 ABC Road Cafe: 1
+
+The winner is Tito's Tacos!
+
+
+GOODBYE!
+
+Press any key to continue . . .
+
+-------------------------------------TEST CASE 3-------------------------------------
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 1
+
+Wendy's, Subway, Taco Bell, Baja Fresh, Tito's Tacos, Establo's Meat Market, McDonald's, Sizzler
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 4
+The list has been shuffled.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 1
+
+Subway, Establo's Meat Market, McDonald's, Sizzler, Baja Fresh, Wendy's, Taco Bell, Tito's Tacos
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: Hamburger Happiness
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: Roast Republic
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: 123 ABC Road Cafe
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: Smokey's
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 1
+
+Subway, Establo's Meat Market, McDonald's, Sizzler, Baja Fresh, Wendy's, Taco Bell, Tito's Tacos, Hamburger Happiness, Roast Republic, 123 ABC Road Cafe, Smokey's
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 5
+The number of restaurants must be equal a power of two. Please add or remove restaurants to comply.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 4
+The list has been shuffled.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 1
+
+Smokey's, Baja Fresh, Subway, Establo's Meat Market, Sizzler, Hamburger Happiness, Tito's Tacos, Wendy's, Taco Bell, McDonald's, Roast Republic, 123 ABC Road Cafe
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: The Piano Restaurant
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: U Myslivna
+Invalid selection. Please enter 1, 2, 3, 4, 5, or 6 to signify your choice.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: U Myslivna
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: Dobra cajovna
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: Indicka restaurace no. 1
+Invalid selection. Please enter 1, 2, 3, 4, 5, or 6 to signify your choice.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: Indicka restaurace no. 1
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 1
+
+Smokey's, Baja Fresh, Subway, Establo's Meat Market, Sizzler, Hamburger Happiness, Tito's Tacos, Wendy's, Taco Bell, McDonald's, Roast Republic, 123 ABC Road Cafe, The Piano Restaurant, U Myslivna, Dobra cajovna, Indicka restaurace no. 1
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 2
+
+Please enter the name of the restaurant that you wish to add: The Habit
+The restaurant was added to the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 3
+
+Please enter the name of the restaurant that you wish to delete: ummm
+The restaurant was not found in the list. It was therefore not deleted.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 3
+
+Please enter the name of the restaurant that you wish to delete: McDonald's
+The restaurant was removed from the list.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 4
+The list has been shuffled.
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 1
+
+Establo's Meat Market, The Habit, Sizzler, Subway, 123 ABC Road Cafe, Dobra cajovna, Taco Bell, The Piano Restaurant, Wendy's, Tito's Tacos, Roast Republic, U Myslivna, Indicka restaurace no. 1, Smokey's, Baja Fresh, Hamburger Happiness
+
+MENU: Please select one of the following options:
+
+1 - Display all restaurants
+2 - Add a restaurant
+3 - Remove a restaurant
+4 - Shuffle the vector
+5 - Begin the tournament
+6 - Quit the program
+
+Enter your selection now: 5
+Match 1/8, Round 1/4 --- Enter 1 for Establo's Meat Market or 2 for The Habit: The Habit
+Invalid response (The Habit)
+Match 1/8, Round 1/4 --- Enter 1 for Establo's Meat Market or 2 for The Habit: 1
+Match 2/8, Round 1/4 --- Enter 1 for Sizzler or 2 for Subway: Subway
+Invalid response (Subway)
+Match 2/8, Round 1/4 --- Enter 1 for Sizzler or 2 for Subway: 2
+Match 3/8, Round 1/4 --- Enter 1 for 123 ABC Road Cafe or 2 for Dobra cajovna: 1
+Match 4/8, Round 1/4 --- Enter 1 for Taco Bell or 2 for The Piano Restaurant: 2
+Match 5/8, Round 1/4 --- Enter 1 for Wendy's or 2 for Tito's Tacos: 2
+Match 6/8, Round 1/4 --- Enter 1 for Roast Republic or 2 for U Myslivna: 2
+Match 7/8, Round 1/4 --- Enter 1 for Indicka restaurace no. 1 or 2 for Smokey's: 1
+Match 8/8, Round 1/4 --- Enter 1 for Baja Fresh or 2 for Hamburger Happiness: 1
+Match 1/4, Round 2/4 --- Enter 1 for Establo's Meat Market or 2 for Subway: 1
+Match 2/4, Round 2/4 --- Enter 1 for 123 ABC Road Cafe or 2 for The Piano Restaurant: 2
+Match 3/4, Round 2/4 --- Enter 1 for Tito's Tacos or 2 for U Myslivna: 2
+Match 4/4, Round 2/4 --- Enter 1 for Indicka restaurace no. 1 or 2 for Baja Fresh: 1
+Match 1/2, Round 3/4 --- Enter 1 for Establo's Meat Market or 2 for The Piano Restaurant: 2
+Match 2/2, Round 3/4 --- Enter 1 for U Myslivna or 2 for Indicka restaurace no. 1: 1
+Match 1/1, Round 4/4 --- Enter 1 for The Piano Restaurant or 2 for U Myslivna: 2
+
+The winner is U Myslivna!
+
+
+GOODBYE!

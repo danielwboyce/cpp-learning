@@ -1,0 +1,1 @@
+This program manages a list of restaurants and then allows you to run a bracket to determine which of the restaurants is the best.

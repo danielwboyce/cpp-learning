@@ -1,0 +1,1062 @@
+-------------------------------------TEST CASE 1-------------------------------------
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 0
+Invalid selection. Please enter 1, 2, 3, 4, 5, 6, 7, or 8 to signify your choice.
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 9
+Invalid selection. Please enter 1, 2, 3, 4, 5, 6, 7, or 8 to signify your choice.
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: cheese
+Invalid selection. Please enter 1, 2, 3, 4, 5, 6, 7, or 8 to signify your choice.
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Inventory Empty
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $10000.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 4
+
+You don't have any cars to sell!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 5
+
+You don't have any cars to paint!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 3
+
+Please enter the name, color, and price of the new car.
+Name: TARDIS
+Color: blue
+Price: 25000
+
+You can't afford this car!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 3
+
+Please enter the name, color, and price of the new car.
+Name: TARDIS
+Color: blue
+Price: 5000
+
+The TARDIS was purchased!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: TARDIS
+Color: blue
+Price: $5000
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $5000.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 3
+
+Please enter the name, color, and price of the new car.
+Name: TARDIS
+Color: blue
+Price: 5000
+
+You already own the same kind of car! Car not purchased.
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: TARDIS
+Color: blue
+Price: $5000
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $5000.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 3
+
+Please enter the name, color, and price of the new car.
+Name: MillenniumFalcon
+Color: gray
+Price: 5000
+
+The MillenniumFalcon was purchased!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: TARDIS
+Color: blue
+Price: $5000
+
+Name: MillenniumFalcon
+Color: gray
+Price: $5000
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $0.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 4
+
+Please enter the name of the car to be sold.
+Name: mustang
+
+You don't own that kind of car!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 7
+
+Please enter the name of the file that you would like to create. Please do not include ".txt" in the file name.
+File name: scifi1
+
+File scifi1.txt saved!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 8
+
+
+GOODBYE!
+
+-------------------------------------TEST CASE 2-------------------------------------
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 6
+
+Please enter the name of the file that you would like to load. Please do not include ".txt" in the file name.
+File name: scifi1
+
+File scifi1.txt loaded!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: TARDIS
+Color: blue
+Price: $5000
+
+Name: MillenniumFalcon
+Color: gray
+Price: $5000
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $0.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 3
+
+Please enter the name, color, and price of the new car.
+Name: Smart
+Color: Yellow
+Price: 2000
+
+You can't afford this car!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: TARDIS
+Color: blue
+Price: $5000
+
+Name: MillenniumFalcon
+Color: gray
+Price: $5000
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $0.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 4
+
+Please enter the name of the car to be sold.
+Name: Smart
+
+You don't own that kind of car!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 4
+
+Please enter the name of the car to be sold.
+Name: MilleniumFalcon
+
+You don't own that kind of car!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 4
+
+Please enter the name of the car to be sold.
+Name: MillenniumFalcon
+
+The MillenniumFalcon was sold!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: TARDIS
+Color: blue
+Price: $5000
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $5000.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 5
+
+Please enter the name of the car that you'd like to paint.
+Name: TARDIS
+Please enter the color that you'd like to paint this car.
+Color: BLUE
+
+The TARDIS was painted BLUE! Its value increased by $1000.
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: TARDIS
+Color: BLUE
+Price: $6000
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 5
+
+Please enter the name of the car that you'd like to paint.
+Name: TARDIS
+Please enter the color that you'd like to paint this car.
+Color: BLUE
+
+The TARDIS is already BLUE.
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 5
+
+Please enter the name of the car that you'd like to paint.
+Name: MillenniumFalcon
+
+You don't own that kind of car!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: TARDIS
+Color: BLUE
+Price: $6000
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 4
+
+Please enter the name of the car to be sold.
+Name: TARDIS
+
+The TARDIS was sold!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Inventory Empty
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $11000.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 7
+
+Please enter the name of the file that you would like to create. Please do not include ".txt" in the file name.
+File name: 11000
+
+File 11000.txt saved!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 8
+
+
+GOODBYE!
+
+-------------------------------------TEST CASE 3-------------------------------------
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Inventory Empty
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $10000.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 6
+
+Please enter the name of the file that you would like to load. Please do not include ".txt" in the file name.
+File name: randomname
+
+File randomname.txt failed to load. :(
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Inventory Empty
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $10000.00
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 6
+
+Please enter the name of the file that you would like to load. Please do not include ".txt" in the file name.
+File name: cars2
+
+File cars2.txt loaded!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: Navy
+Color: White
+Price: $6972.15
+
+Name: Kidney
+Color: Red
+Price: $3971.15
+
+Name: Refried
+Color: Brown
+Price: $9999.99
+
+Name: Garbanzo
+Color: White
+Price: $975.21
+
+Name: Black
+Color: Black
+Price: $7946.85
+
+Name: Edamame
+Color: Green
+Price: $555.55
+
+Name: Lima
+Color: White
+Price: $5873.15
+
+Name: Pinto
+Color: Brown
+Price: $12369
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $59715.43
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 4
+
+Please enter the name of the car to be sold.
+Name: TARDIS
+
+You don't own that kind of car!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 3
+
+Please enter the name, color, and price of the new car.
+Name: Pinto
+Color: White
+Price: 1
+
+You already own the same kind of car! Car not purchased.
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 4
+
+Please enter the name of the car to be sold.
+Name: Pinto
+
+The Pinto was sold!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: Navy
+Color: White
+Price: $6972.15
+
+Name: Kidney
+Color: Red
+Price: $3971.15
+
+Name: Refried
+Color: Brown
+Price: $9999.99
+
+Name: Garbanzo
+Color: White
+Price: $975.21
+
+Name: Black
+Color: Black
+Price: $7946.85
+
+Name: Edamame
+Color: Green
+Price: $555.55
+
+Name: Lima
+Color: White
+Price: $5873.15
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $72084.42
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 4
+
+Please enter the name of the car to be sold.
+Name: Garbanzo
+
+The Garbanzo was sold!
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 1
+
+Name: Navy
+Color: White
+Price: $6972.15
+
+Name: Kidney
+Color: Red
+Price: $3971.15
+
+Name: Refried
+Color: Brown
+Price: $9999.99
+
+Name: Black
+Color: Black
+Price: $7946.85
+
+Name: Edamame
+Color: Green
+Price: $555.55
+
+Name: Lima
+Color: White
+Price: $5873.15
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 2
+
+Your balance is $73059.63
+
+MENU: Please select one of the following options:
+
+1 - Show current inventory.
+2 - Show current balance.
+3 - Buy a car.
+4 - Sell a car.
+5 - Paint a car.
+6 - Load file.
+7 - Save file.
+8 - Quit program.
+
+Enter your selection now: 8
+
+
+GOODBYE!
