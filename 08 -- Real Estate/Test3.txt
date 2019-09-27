@@ -1,0 +1,9 @@
+Residential 1 5000000 0 129 Avatar Lane
+Commercial 0 598776 1 0.23 977 Rough Buddy Blvd
+
+Residential 1 10000000 0 5 Fourth Avenue
+Residential 1 10000000 1 6 Seventh Avenue
+Commercial 0 10000000 1 0.25 8 Ninth Avenue
+Commercial 0 10000000 0 0 10 Eleventh Avenue
+Commercial 1 10000000 1 0.30 12 Thirteenth Avenue
+Commercial 1 10000000 0 0 14 Fifteenth Avenue

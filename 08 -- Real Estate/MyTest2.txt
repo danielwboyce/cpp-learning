@@ -1,0 +1,11 @@
+Laboratory 0 1234567 1 0.20 350 Sea Towers
+Commercial -1 1234567 0 0.20 350 Sea Towers
+Commercial 2 1234567 0 0.20 350 Sea Towers
+Commercial 0 20000 0.20 350 Sea Towers
+Commercial 0 cheese 0 0.20 350 Sea Towers
+Commercial 0 1234567 -1 0.02 350 Sea Towers
+Commercial 0 1234567 cheeseandcrackers 0.02 ;lkj
+Commerical 0 1234567 1 help me
+Commercial 1 984956 0 .20 221B Baker Street, London
+Yo YO YO 1 984651 0321 I know this will fail
+Commercial 1 984654 0

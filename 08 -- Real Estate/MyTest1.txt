@@ -1,0 +1,11 @@
+Condo 1 200000 1 86 Ciprian Ave
+-80 0 200000 0 86 Ciprian Ave
+Residential 0 200000 0 86 Ciprian Ave
+Residential -1 951956 0 5 Gallifrey Way
+Residential 2 9818919 1 8 hey qurrrll lane
+Residential cheese 95195 1 85 Milady Horakove
+Residential 0 -951956- 0 5 Gallifrey Way
+Residential 0 Cheese 0 5 Gallifrey Way
+Residential 0 -951956 -1 5 Gallifrey Way
+Residential 0 -951956 95 5 Gallifrey Way
+Residential 0 -951956 0

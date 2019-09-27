@@ -1,0 +1,1 @@
+This program is mostly a test in being able to validate data from incoming streams. If data (here about real estate properties) is bad or in the wrong format, it rejects it.

@@ -1,0 +1,16 @@
+Residential 0 400000 0 2091 Ciprian Ave
+Residential 0 350000 0 123 ABC Road
+Residential 0 987654 1 5 Sixth Avenue
+Residential 0 777000 1 8 42nd Street
+Residential 1 888000 0 9 Okay Street
+Residential 1 999000 0 1138 Appian Way
+Residential 1 654000 1 999 Hey Street
+Residential 1 888800 1 5 Cool Avenue
+Commercial 0 123456 0 0.10 555 Broadway, New York
+Commercial 0 99955 0 0.25 91 Nice Guy Road
+Commercial 0 988765 1 .25 91 86th St
+Commercial 0 555000 1 .30 4 Privet Drive
+Commercial 1 19855 0 .45 8 Tiny Street
+Commercial 1 550000 0 .88 98 Tax Deduction Street
+Commercial 1 555000 1 .50 88 No End in Sigh Road
+Commercial 1 503500 1 .10 66 Hey Friend Avenue
