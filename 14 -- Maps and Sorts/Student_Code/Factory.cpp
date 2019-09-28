@@ -1,0 +1,20 @@
+#include "Factory.h"
+#include "GPA.h"
+using namespace std;
+
+/*
+	You may modify this document
+*/
+//=======================================================================================
+/*
+	getGPA()
+
+	Creates and returns an object whose class extends GPAInterface.
+	This should be an object of a class you have created.
+
+	Example: If you made a class called "GPA", you might say, "return new GPA();".
+*/
+GPAInterface * Factory::getGPA() {
+    return new GPA;
+}
+//=======================================================================================

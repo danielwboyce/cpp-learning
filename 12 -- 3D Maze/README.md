@@ -1,0 +1,1 @@
+This program uses a predetermined test driver to run some tests on a pathfinder algorithm that I designed to test some premade 3D mazes.

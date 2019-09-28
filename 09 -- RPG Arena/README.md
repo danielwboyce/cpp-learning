@@ -1,0 +1,1 @@
+This program executes a test driver with its own main.cpp using classes I defined. It models some fantasy fighters contesting in an arena.
